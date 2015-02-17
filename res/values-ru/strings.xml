@@ -81,18 +81,18 @@
     <string name="donate_title">Пожертвовать</string>
     <string name="donate_summary">Пожертвовать</string>
     <string name="source_title">Исходники</string>
-    <string name="source_summary">github.com/euphoria-os</string>
-    <string name="center_summary"><b>OTACenter</b> включает утилиты и данные, чтобы сделать работу с прошивкой Euphoria-OS ещё лучше. Обновляйтесь до последних версий нашей прошивки с помощью <b>OTACenter</b>.</string>
+    <string name="source_summary">github.com/CyanideL</string>
+    <string name="center_summary"><b>OTACenter</b> включает утилиты и данные, чтобы сделать работу с прошивкой CyanideLещё лучше. Обновляйтесь до последних версий нашей прошивки с помощью <b>OTACenter</b>.</string>
     <string name="bugreport">Сообщить об ошибке</string>
     <string name="bugreport_summary">Создать отчет об ошибке.</string>
-    <string name="report_infosuccess">Создан системный отчет, отправьте его команде Euphoria-OS. Zip-архив с системным отчетом находится на SD-карте в папке \"BugReport\".</string>
+    <string name="report_infosuccess">Создан системный отчет, отправьте его команде CyanideL. Zip-архив с системным отчетом находится на SD-карте в папке \"BugReport\".</string>
     <string name="report_infofail">Не удалось создать отчет об ошибке, пожалуйста, попробуйте еще раз.</string>
 
-    <string name="about_home_url"><a href="http://mahdi-rom.com/">Euphoria-OS</a></string>
+    <string name="about_home_url"><a href="https://plus.google.com/communities/115373154758419619929">CyanideL</a></string>
     <string name="about_ota">OTA-Центр позволяет легко изменять\n свою прошивку!</string>
-    <string name="about_copyright">\u00A9 Все права принадлежат Slimroms 2013 изменено для Euphoria-OS</string>
+    <string name="about_copyright">\u00A9 Все права принадлежат Slimroms 2013 изменено для CyanideL</string>
     <string name="about_version">OTA-Центр 2.0</string>
-    <string name="about_contact">Свяжитесь с нами по адресу Mahdi.Rom@gmail.com</string>
+    <string name="about_contact">Свяжитесь с нами по адресу brettrogers11@gmail.com</string>
     <string name="about_contact_text">Расскажите нам свои впечатления\nили сообщите о ошибке или проблеме</string>
     <string name="about_license">Открытые лицензии</string>
     <string name="about_license_text">OTA-Центр:</string>

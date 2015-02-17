@@ -14,7 +14,7 @@
  *=========================================================================
  */
 
-package com.euphoria.ota.updater;
+package com.cyanide.ota.updater;
 
 import android.content.Intent;
 import android.util.Log;

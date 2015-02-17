@@ -14,7 +14,7 @@
  *=========================================================================
  */
 
-package com.euphoria.ota.updater;
+package com.cyanide.ota.updater;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -42,8 +42,8 @@ import org.xmlpull.v1.XmlPullParserFactory;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
-import com.euphoria.center.OTACenter;
-import com.euphoria.ota.R;
+import com.cyanide.center.OTACenter;
+import com.cyanide.ota.R;
 
 public class UpdateChecker extends AsyncTask<Context, Integer, String> {
     private static final String TAG = "UpdateChecker";

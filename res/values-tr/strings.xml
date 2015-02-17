@@ -81,18 +81,18 @@
     <string name="donate_title">Bağış</string>
     <string name="donate_summary">Bağış</string>
     <string name="source_title">Kaynak</string>
-    <string name="source_summary">github.com/euphoria-os</string>
-    <string name="center_summary"><b>OTACenter</b> Euphoria-OS araçlar &amp; bilgi için daha iyi deneyiminize yardımcı olmak için sağlamaktadır. ROM u yeni sürüme yükseltme <b>OTACenter</b>.</string>
+    <string name="source_summary">github.com/CyanideL</string>
+    <string name="center_summary"><b>OTACenter</b> CyanideL araçlar &amp; bilgi için daha iyi deneyiminize yardımcı olmak için sağlamaktadır. ROM u yeni sürüme yükseltme <b>OTACenter</b>.</string>
     <string name="bugreport_title">Hata raporu</string>
     <string name="bugreport_summary">Tam bir hata raporu oluşturma</string>
     <string name="report_infosuccess">.</string>
-    <string name="report_infofail">Bir sistem raporu düzenlendi, Euphoria-OS bunu sağlayacak. SD-Kart dizininde \"Hata raporları\" adında Zip dosyasını bulabilirsiniz.</string>
+    <string name="report_infofail">Bir sistem raporu düzenlendi, CyanideL bunu sağlayacak. SD-Kart dizininde \"Hata raporları\" adında Zip dosyasını bulabilirsiniz.</string>
 
-    <string name="about_home_url"><a href="http://mahdi-rom.com/">Euphoria-OS</a></string>
+    <string name="about_home_url"><a href="https://plus.google.com/communities/115373154758419619929">CyanideL</a></string>
     <string name="about_ota">OTA Merkezi kolayca ROM u yönetmenize olanak sağlar!</string>
-    <string name="about_copyright">\u00A9 Telif Slimroms 2013 olarak değişikliğe uğratılmış Euphoria-OS</string>
+    <string name="about_copyright">\u00A9 Telif Slimroms 2013 olarak değişikliğe uğratılmış CyanideL</string>
     <string name="about_version">OTA Merkezi 2.0</string>
-    <string name="about_contact">Bize ulaşın Mahdi.Rom@gmail.com</string>
+    <string name="about_contact">Bize ulaşın brettrogers11@gmail.com</string>
     <string name="about_contact_text">Ne düşündüğünüzü bize söyleyin ya da bize bir hata veya sorun hakkında bildirin</string>
     <string name="about_license">Açık kaynak lisansları</string>
     <string name="about_license_text">OTA Merkezi uyglaması:</string>

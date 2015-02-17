@@ -81,18 +81,18 @@
     <string name="donate_title">Donar</string>
     <string name="donate_summary">Donar</string>
     <string name="source_title">Source</string>
-    <string name="source_summary">github.com/euphoria-os</string>
-    <string name="center_summary"><b>OTACenter</b> proporciona las herramientas y la información para ayudar a que su experiencia con Euphoria-OS sea aún mejor. Actualiza automáticamente a la nueva versión de nuestra ROM con <b>OTACenter</b>.</string>
+    <string name="source_summary">github.com/CyanideL</string>
+    <string name="center_summary"><b>OTACenter</b> proporciona las herramientas y la información para ayudar a que su experiencia con CyanideL sea aún mejor. Actualiza automáticamente a la nueva versión de nuestra ROM con <b>OTACenter</b>.</string>
     <string name="bugreport_title">Bugreport</string>
     <string name="bugreport_summary">Crear un informe de error completo</string>
-    <string name="report_infosuccess">Creado informe, envielo a Euphoria-OS. Usted puede encontrar el archivo Zip en su tarjeta SD en un directorio llamado \"BugReport\".</string>
+    <string name="report_infosuccess">Creado informe, envielo a CyanideL. Usted puede encontrar el archivo Zip en su tarjeta SD en un directorio llamado \"BugReport\".</string>
     <string name="report_infofail">Error al crear el informe de error, por favor intentelo de nuevo.</string>
 
-    <string name="about_home_url"><a href="http://mahdi-rom.com/">Euphoria-OS</a></string>
+    <string name="about_home_url"><a href="https://plus.google.com/communities/115373154758419619929">CyanideL</a></string>
     <string name="about_ota">OTACenter te permite manejar fácilmente\n tu ROM!</string>
     <string name="about_copyright">\u00A9 Copyright Slimroms 2013 modifed for Euphoria-OS</string>
-    <string name="about_version">OTACenter 2.0</string>
-    <string name="about_contact">Contacto Mahdi.Rom@gmail.com</string>
+    <string name="about_version">OTACenter 1.0</string>
+    <string name="about_contact">Contacto brettrogers@gmail.com</string>
     <string name="about_contact_text">Cuéntanos lo que piensa\no informanos sobre un problema o error</string>
     <string name="about_license">Licencias de código abierto</string>
     <string name="about_license_text">OTACenter app:</string>
